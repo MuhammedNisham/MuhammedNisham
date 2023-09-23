@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MuhammedNisham
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...<h1 align="center">Hi 👋, I'm Muhammed Nisham</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Nisham</h1>
 <h3 align="center">a passionate data scientist and AI enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammednisham&label=Profile%20views&color=0e75b6&style=flat" alt="muhammednisham" /> </p>
