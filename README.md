@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammednisham&label=Profile%20views&color=0e75b6&style=flat" alt="muhammednisham" /> </p>
 
+- 🔭 I’m currently studying on **sadanam kumaran college, Pathiripala,Palakkad**
+
 - 🌱 I’m currently learning **Artificial Intelligence, Python datascience**
 
-- 🔗 Connect with me: - LinkedIn: https://www.linkedin.com/in/muhammed-nisham-o-n-590997292/ - Instagram: https://instagram.com/mohd_nisham_?igshid=OGQ5ZDc2ODk2ZA== - Mail: nishamovingal602@gmail.com **nishamovingal602@gmail.com**
+- 👯 I’m looking to collaborate on **open-source projects that revolve around data analysis and visualization. My goal is to leverage and contribute to initiatives that address real-world challenges using data-driven insights**
+
+- 🤝I'm Seeking **a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings**
+
+- 🔗 Connect with me: - LinkedIn: https://www.linkedin.com/in/muhammed-nisham-o-n-590997292/ - Instagram: https://instagram.com/mohd_nisham_?igshid=OGQ5ZDc2ODk2ZA== - Mail: nishamovingal602@gmail.com **LinkedIn: https://www.linkedin.com/in/muhammed-nisham-o-n-590997292/ - Instagram: https://instagram.com/mohd_nisham_?igshid=OGQ5ZDc2ODk2ZA== - Mail: nishamovingal602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/muhammed nisham o n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammed nisham o n" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/muhammednisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammednisham" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/mohd_nisham_?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mohd_nisham_?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@muhammednishamo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muhammednishamo1" height="30" width="40" /></a>
 </p>
