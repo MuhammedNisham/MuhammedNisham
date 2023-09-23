@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/muhammed nisham o n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammed nisham o n" height="30" width="40" /></a>
-<a href="https://instagram.com/mohd_nisham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd_nisham_" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/mohd_nisham_?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mohd_nisham_?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@muhammednishamo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muhammednishamo1" height="30" width="40" /></a>
 </p>
 
@@ -22,9 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammednisham&show_icons=true&locale=en" alt="muhammednisham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednisham&" alt="muhammednisham" /></p>
-
-
-<!---
-MuhammedNisham/MuhammedNisham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
