@@ -11,6 +11,10 @@
 
 - 🤝I'm Seeking **a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings**
 
+- 👨‍💻 All of my projects are available at [https://github.com/MuhammedNisham?tab=repositories](https://github.com/MuhammedNisham?tab=repositories)
+
+- Let's Connect: [I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!](I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!)
+
 - 🔗 Connect with me: - LinkedIn: https://www.linkedin.com/in/muhammed-nisham-o-n-590997292/ - Instagram: https://instagram.com/mohd_nisham_?igshid=OGQ5ZDc2ODk2ZA== - Mail: nishamovingal602@gmail.com **LinkedIn: https://www.linkedin.com/in/muhammed-nisham-o-n-590997292/ - Instagram: https://instagram.com/mohd_nisham_?igshid=OGQ5ZDc2ODk2ZA== - Mail: nishamovingal602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
