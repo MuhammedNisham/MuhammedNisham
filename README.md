@@ -13,7 +13,7 @@
 - 📚 Exploring [Python, Django, JavaScript, React, SQL]
 - 💡 Looking to collaborate on [Open Source, Web development projects, Fullstack projects]
 - 🚀 Seeking a challenging role to enhance my skills & build innovative solutions
-- 🔗 [Check out my work](#) <!-- Replace # with your portfolio link -->
+- 🔗 [Check out my work](https://muhammednisham.github.io/portfolio/) <!-- Replace # with your portfolio link -->
 
 ---
 
