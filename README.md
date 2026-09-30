@@ -1,47 +1,30 @@
-<!-- ===================================================== -->
-<!--                    PROFILE HEADER                      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # 👋 Hi, I'm Muhammed Nisham
 
 ### 🎬 Video Editor • 🎨 Visual Designer • 💻 Developer
 
-Creative professional combining **visual storytelling, design, web development
-and automation** to build engaging digital experiences and practical solutions.
+Creative professional combining **visual storytelling, design, web development,
+and automation** to create engaging digital experiences and practical solutions.
 
 <br>
 
-<a href="https://github.com/Anzzzzzz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_BEHANCE_URL">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:nishamovingal602@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzzzzzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishamovingal602@gmail.com)
 
 </div>
-
-<br>
 
 ---
 
 ## 🚀 About Me
 
 I'm **Muhammed Nisham**, a creative professional and developer interested in
-the intersection of **design, media and technology**.
+the intersection of **design, media, technology, and automation**.
 
-My work combines creative production with technical problem solving, from
-video editing and visual design to web applications and business automation.
+My work combines creative production with technical problem solving.
 
 - 🎬 Video Editing & Color Grading
 - 🎨 Graphic & Visual Design
@@ -52,54 +35,19 @@ video editing and visual design to web applications and business automation.
 - 🔗 Business Workflow Automation
 - 🤖 WhatsApp Automation
 
-I enjoy turning ideas into **visual content, websites and useful digital tools**.
+I enjoy turning ideas into **visual content, websites, and useful digital tools**.
 
 ---
 
 ## 🧩 What I Do
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎬 Creative
-
-Video Editing  
-Color Grading  
-Graphic Design  
-Motion Content  
-Social Media Content  
-Promotional Videos
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Development
-
-Web Applications  
-Frontend Development  
-E-commerce Websites  
-UI Implementation  
-Business Applications  
-Responsive Websites
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Automation
-
-Python Automation  
-WhatsApp Automation  
-Workflow Automation  
-CSV-based Systems  
-Business Tools  
-Process Optimization
-
-</td>
-</tr>
-</table>
+| 🎬 Creative | 💻 Development | ⚙️ Automation |
+|:---:|:---:|:---:|
+| Video Editing | Web Applications | Python Automation |
+| Color Grading | Frontend Development | WhatsApp Automation |
+| Graphic Design | E-commerce Websites | Workflow Automation |
+| Motion Content | UI Implementation | CSV-based Systems |
+| Social Media | Responsive Websites | Business Tools |
 
 ---
 
@@ -119,11 +67,7 @@ Process Optimization
 
 ### 🎨 Creative Tools
 
-<p>
-
 `Adobe Photoshop` • `Adobe Premiere Pro` • `Adobe After Effects` • `Figma`
-
-</p>
 
 ---
 
@@ -143,7 +87,7 @@ dealer-specific posters and videos through WhatsApp.
 - ⚡ Batch processing
 - 📈 Sending status tracking
 
-**Tech:** Python • WhatsApp Web • Automation • CSV
+**Tech:** `Python` • `WhatsApp Web` • `Automation` • `CSV`
 
 ---
 
@@ -161,7 +105,7 @@ dealer-specific marketing posters from structured dealer data.
 - 📊 CSV-based dealer management
 - ⚡ Batch poster generation
 
-**Tech:** Python • Adobe Photoshop • CSV • Automation
+**Tech:** `Python` • `Adobe Photoshop` • `CSV` • `Automation`
 
 ---
 
@@ -175,7 +119,7 @@ Building modern web applications with a focus on:
 - Automation
 - Practical user experiences
 
-**Technologies:** HTML • CSS • JavaScript • Python
+**Technologies:** `HTML` • `CSS` • `JavaScript` • `Python`
 
 ---
 
@@ -183,9 +127,15 @@ Building modern web applications with a focus on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anzzzzzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Anzzzzzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzzzzzz&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzzzzzz&layout=compact&langs_count=8&hide_border=true"
+  height="180"
+/>
 
 </div>
 
@@ -195,17 +145,23 @@ Building modern web applications with a focus on:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anzzzzzz&hide_border=true&theme=transparent" />
+<img
+  src="https://streak-stats.demolab.com?user=Anzzzzzz&hide_border=true"
+  height="180"
+/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anzzzzzz&hide_border=true&area=true&theme=github-compact" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anzzzzzz&theme=github_dark"
+  width="100%"
+/>
 
 </div>
 
@@ -215,17 +171,11 @@ Building modern web applications with a focus on:
 
 <div align="center">
 
-<a href="https://github.com/Anzzzzzz?tab=repositories">
-  <img src="https://img.shields.io/github/followers/Anzzzzzz?style=for-the-badge&label=Followers"/>
-</a>
+[![Followers](https://img.shields.io/github/followers/Anzzzzzz?style=for-the-badge&label=Followers)](https://github.com/Anzzzzzz?tab=followers)
 
-<a href="https://github.com/Anzzzzzz?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Anzzzzzz?style=for-the-badge&label=Total%20Stars"/>
-</a>
+[![Stars](https://img.shields.io/github/stars/Anzzzzzz?style=for-the-badge&label=Total%20Stars)](https://github.com/Anzzzzzz?tab=repositories)
 
-<a href="https://github.com/Anzzzzzz">
-  <img src="https://img.shields.io/github/commit-activity/y/Anzzzzzz?style=for-the-badge&label=Commits%20This%20Year"/>
-</a>
+[![Commits](https://img.shields.io/github/commit-activity/y/Anzzzzzz?style=for-the-badge&label=Commits%20This%20Year)](https://github.com/Anzzzzzz)
 
 </div>
 
@@ -233,10 +183,45 @@ Building modern web applications with a focus on:
 
 # 💡 Currently Exploring
 
-```text
-🚀 Modern Web Development
-🤖 AI & Automation
-🎨 UI/UX & Visual Design
-⚡ Full-Stack Development
-📱 Digital Content Creation
-🔗 Business Process Automation
+- 🚀 Modern Web Development
+- 🤖 AI & Automation
+- 🎨 UI/UX & Visual Design
+- ⚡ Full-Stack Development
+- 📱 Digital Content Creation
+- 🔗 Business Process Automation
+
+---
+
+# 🎯 Interests
+
+🎬 Video Production  
+🎨 Visual Design  
+🌐 Web Development  
+💻 Creative Technology  
+🤖 Automation  
+📱 Digital Marketing  
+🛒 E-commerce  
+🚀 Digital Products
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to interesting projects, collaborations,
+and opportunities combining **creativity and technology**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishamovingal602@gmail.com)
+
+<br><br>
+
+### ✨ Create • Build • Automate
+
+</div>
