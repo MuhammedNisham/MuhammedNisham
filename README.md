@@ -1,59 +1,148 @@
-<h1 align="center">Hi 👋, I'm Muhammed Nisham</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammedNisham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<!-- HEADER -->
+
+<div align="center">
+
+# 👋 Hi, I'm Muhammed Nisham
+
+### Creative Technologist • Video Editor • Visual Designer • Developer
+
+I combine **creative design, video production and software development**
+to build visually strong digital experiences and practical automation tools.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
-## 🧑‍💼 About Me
+## 🚀 About Me
 
-- 🎓 Graduate in [BCA] from [University of Calicut]
-- 🏅 Recently completed a course in Fullstack Web Development
-- 🤖 Passionate about [Web Development, Front end development, Back end development, Fullstack development]
-- 📚 Exploring [Python, Django, JavaScript, React, SQL]
-- 💡 Looking to collaborate on [Open Source, Web development projects, Fullstack projects]
-- 🚀 Seeking a challenging role to enhance my skills & build innovative solutions
-- 🔗 [Check out my work](https://muhammednisham.github.io/portfolio/) <!-- Replace # with your portfolio link -->
+I'm **Muhammed Nisham**, a creative professional and developer interested in
+the intersection of **design, media and technology**.
 
----
+My work spans:
 
-## 📫 Connect with me
+- 🎬 Video Editing & Color Grading
+- 🎨 Graphic & Visual Design
+- 💻 Web Application Development
+- ⚙️ Python Automation
+- 📱 Social Media Content
+- 🛒 E-commerce Development
+- 🔗 Workflow Automation
 
-<a href="mailto:nishamovingal602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muhammed-nisham-o-n-590997292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/nishamm._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<!-- Add more as needed -->
+I enjoy turning ideas into **visual content, websites and useful digital tools**.
 
 ---
 
-## 💻 Languages & Tools
+## 🧩 What I Do
+
+| 🎬 Creative | 💻 Development | ⚙️ Automation |
+|:---|:---|:---|
+| Video Editing | Web Applications | Python Automation |
+| Color Grading | Frontend Development | Workflow Automation |
+| Graphic Design | E-commerce Websites | WhatsApp Automation |
+| Social Media Content | UI Implementation | Business Tools |
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Web
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <!-- Add more badges for your skills -->
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+### Creative Tools
+
+<p>
+Adobe Photoshop • Premiere Pro • After Effects • Figma
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedNisham&theme=dark"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedNisham&show_icons=true&theme=dark"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedNisham&layout=compact&theme=dark"/>
-</p>
+### 🤖 Dealer WhatsApp Automation
+
+A workflow automation system designed to send dealer-specific
+posters and videos through WhatsApp.
+
+**Built with:** Python • Automation • WhatsApp Web
 
 ---
 
-## 🤝 Let's Collaborate!
+### 🖼️ Dealer Poster Automation
 
-*I'm always open to new ideas and collaborations. Let's connect and build something amazing together!*
+An automated Photoshop-based workflow for generating
+dealer-specific marketing posters from structured data.
+
+**Built with:** Python • Photoshop • CSV • Automation
+
+---
+
+### 🌐 Web Applications
+
+Building modern web applications and business tools
+with a focus on clean UI, usability and automation.
+
+**Focus:** HTML • CSS • JavaScript • Python
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Currently Exploring
+
+- 🚀 Modern Web Development
+- 🤖 AI & Automation
+- 🎨 UI/UX & Visual Design
+- ⚡ Full-Stack Development
+- 📱 Digital Content & Creative Technology
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+**Creative projects • Web applications • Automation • Digital products**
+
+<br/>
+
+<div align="center">
+
+### ✨ Build. Create. Automate.
+
+</div>
