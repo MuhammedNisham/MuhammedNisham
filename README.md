@@ -9,7 +9,7 @@ and automation** to create engaging digital experiences and practical solutions.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzzzzzz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
@@ -128,13 +128,13 @@ Building modern web applications with a focus on:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Anzzzzzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-  height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzzzzzz&layout=compact&langs_count=8&hide_border=true"
-  height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true"
+height="180"
 />
 
 </div>
@@ -146,36 +146,36 @@ Building modern web applications with a focus on:
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Anzzzzzz&hide_border=true"
-  height="180"
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"
+height="180"
 />
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anzzzzzz&theme=github_dark"
-  width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+width="100%"
 />
 
 </div>
 
 ---
 
-# 📌 GitHub Overview
+# 📌 GitHub Activity
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Anzzzzzz?style=for-the-badge&label=Followers)](https://github.com/Anzzzzzz?tab=followers)
+[![Total Contributions](https://img.shields.io/github/commit-activity/y/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Commits%20This%20Year)](https://github.com/YOUR_GITHUB_USERNAME)
 
-[![Stars](https://img.shields.io/github/stars/Anzzzzzz?style=for-the-badge&label=Total%20Stars)](https://github.com/Anzzzzzz?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&label=Followers)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
 
-[![Commits](https://img.shields.io/github/commit-activity/y/Anzzzzzz?style=for-the-badge&label=Commits%20This%20Year)](https://github.com/Anzzzzzz)
+[![Repositories](https://img.shields.io/badge/Repositories-Live-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 </div>
 
