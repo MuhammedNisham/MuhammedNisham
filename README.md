@@ -128,12 +128,12 @@ Building modern web applications with a focus on:
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=MuhammedNisham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
 height="180"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedNisham&layout=compact&langs_count=8&hide_border=true"
 height="180"
 />
 
@@ -159,7 +159,7 @@ height="180"
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammedNisham&theme=github_dark"
 width="100%"
 />
 
